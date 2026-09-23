@@ -10,6 +10,6 @@
 <body>
 
 <header>
-    <img src="images/iq.jpeg" alt="Logo TestQI">
+    <img src="images/qi.jpg" alt="Logo TestQI">
     <h1>TestQI</h1>
 </header>
